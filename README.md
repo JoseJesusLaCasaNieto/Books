@@ -14,7 +14,12 @@ Each folder within the repository corresponds to a different book and contains:
 The repository currently includes content from the following books:
 
 - Aprende Machine Learning - Juan Ignacio Bagnato
-- 
+- Hands On Machine Learning - Aurélien Geron
+- Hands On Reinforcement Learning - Sudharsan Ravichandiran
+- Hands On Reinforcement Learning for Games - Micheal Lanham
+- Introduction To Machine Learning - Andreas Müller
+- Practical Machine Learning for Computer Vision - Valliappa Lakshmanan
+- Python Deep Learning - Jordi Torres
 
 This list will continue to grow as I progress through more books.
 
