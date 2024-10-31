@@ -13,7 +13,8 @@ Each folder within the repository corresponds to a different book and contains:
 
 The repository currently includes content from the following books:
 
-
+- Aprende Machine Learning - Juan Ignacio Bagnato
+- 
 
 This list will continue to grow as I progress through more books.
 
