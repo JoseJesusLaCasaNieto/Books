@@ -20,6 +20,7 @@ The repository currently includes content from the following books:
 - Introduction To Machine Learning - Andreas Müller
 - Practical Machine Learning for Computer Vision - Valliappa Lakshmanan
 - Python Deep Learning - Jordi Torres
+- Dive into Deep Learning - Aston Zhang
 
 This list will continue to grow as I progress through more books.
 
